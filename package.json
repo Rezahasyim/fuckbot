@@ -28,15 +28,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fdciabdul/termux-whatsapp-bot.git"
+    "url": "git+https://github.com/Rezahasyim/fuckboy.git"
   },
   "keywords": [
     "k"
   ],
-  "author": "Abdul Muttaqin",
+  "author": "Reza Hasyim",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/fdciabdul/termux-whatsapp-bot/issues"
+    "url": "https://github.com/Rezahadyim/fuckbot/issues"
   },
-  "homepage": "https://github.com/fdciabdul/termux-whatsapp-bot#readme"
+  "homepage": "https://github.com/Rezahasyim/fuckbot#readme"
 }
