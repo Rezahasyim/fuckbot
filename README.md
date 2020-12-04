@@ -2,11 +2,11 @@
 
 A Lightweight WhatApp Bot Without Headless Browser
 
-==Di Reupload Nihh==
+== Di Reupload Nihh ==
 
 
-![Twitter](https://img.shields.io/twitter/follow/fdciabdul?style=flat-square)
-![Fork](https://img.shields.io/github/forks/fdciabdul/termux-whatsapp-bot?style=flat-square)
+![Twitter](https://img.shields.io/twitter/follow/rezahasyim?style=flat-square)
+![Fork](https://img.shields.io/github/forks/Rezahasyim/fuckbot?style=flat-square)
 
  
 
